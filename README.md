@@ -6,7 +6,7 @@ This project was created as part of a university course. It was developed by [En
 
 ## Table of Contents
 
-- [Love2D & Lua Script](#love2d-lua-script)
+- [Love2D & Lua Script](#love2d--lua-script)
 - [Introduction](#introduction)
 - [Features](#features)
 - [How to Play](#how-to-play)
